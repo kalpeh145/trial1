@@ -5,6 +5,9 @@ public class Test {
 		Singelton obj=Singelton.getInstance();
 	obj.print();
 	System.out.println("command line");
+	System.out.println("command line1");
+	System.out.println("command line2");
+
 	
 	}
 
