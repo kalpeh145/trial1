@@ -6,6 +6,8 @@ public class Test {
 	obj.print();
 	System.out.println("command line");
 	System.out.println("command line1");
+	System.out.println("command line2");
+
 	
 	}
 
